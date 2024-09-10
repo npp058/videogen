@@ -36,17 +36,21 @@ Reduce `n_sample_frames` if your GPU memory is limited.
 
 ## Results
 
-<table border="0" width="100%">
+<table style="width: 100%; border-collapse: collapse;">
     <tr>
-        <td>
-            <img src="https://github.com/npp058/videogen/blob/main/results/output_frames/A%20car%20is%20moving%20on%20an%20empty%20road%20from%20left%20to%20right.jpg" alt="Image 1" width="800"/>
+        <td style="width: 50%; vertical-align: top; border: 1px solid #ddd; padding: 10px;">
+            <img src="https://github.com/npp058/videogen/blob/main/results/output_frames/A car is moving on an empty road from left to right.jpg" alt="Image" style="width: 100%;" />
         </td>
-        <td rowspan="2">A <i>red car</i> moving on the road from <i>left to right</i></td>
-        <td rowspan="2">A <i>yellow jeep</i> moving on the road from <i>left to right</i></td>
+        <td style="width: 50%; vertical-align: top; border: 1px solid #ddd; padding: 10px;">
+            <div style="height: 50%; box-sizing: border-box; border-bottom: 1px solid #ddd;">
+                <p>A <span style="color: red;"><i>red car</i></span> moving on the road from <span style="color: red;"><i>left to right</i></span></p>
+                
+            </div>
+            <div style="height: 50%; box-sizing: border-box;">
+                <p>A <span style="color: red;"><i>yellow jeep</i></span> moving on the road from <span style="color: red;"><i>left to right</i></span></p>
+            </div>
+        </td>
     </tr>
-    
-    
-
 </table>
 
 
