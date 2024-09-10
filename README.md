@@ -36,19 +36,19 @@ Reduce `n_sample_frames` if your GPU memory is limited.
 
 ## Results
 
-<table border="1">
+<table border="0" width="100%">
     <tr>
         <td>
-            <img src="https://github.com/npp058/videogen/blob/main/results/output_frames/A%20car%20is%20moving%20on%20an%20empty%20road%20from%20left%20to%20right.jpg" alt="Image 1" width="300"/>
+            <img src="https://github.com/npp058/videogen/blob/main/results/output_frames/A%20car%20is%20moving%20on%20an%20empty%20road%20from%20left%20to%20right.jpg" alt="Image 1" width="800"/>
         </td>
+        <td rowspan="2">A <i>red car</i> moving on the road from <i>left to right</i></td>
+        <td rowspan="2">A <i>yellow jeep</i> moving on the road from <i>left to right</i></td>
     </tr>
-    <tr>
-        <td>A <i>red car</i> moving on the road from <i>left to right</i></td>
-    </tr>
-    <tr>
-        <td>A <i>yellow jeep</i> moving on the road from <i>left to right</i></td>
-    </tr>
+    
+    
+
 </table>
+
 
 
 
