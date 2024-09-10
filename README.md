@@ -1,4 +1,4 @@
-# Enhanced End-To-End Video Editing
+# Enhanced End-To-End Video Editing (4EV)
 
 ## Setup
 
