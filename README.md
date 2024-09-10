@@ -65,9 +65,6 @@ Reduce `n_sample_frames` if your GPU memory is limited.
     </tr>    
 </table>
 
-
-
-
-## Shoutouts
+## Shoutout
 
 - This code builds on [diffusers](https://github.com/huggingface/diffusers). Thanks for open-sourcing!
