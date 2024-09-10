@@ -38,10 +38,10 @@ Reduce `n_sample_frames` if your GPU memory is limited.
 
 <table style="width: 100%; ">
     <tr>
-        <td style="width: 50%; vertical-align: top; border: 1px solid #ddd; padding: 10px;">
+        <td style="width: 30%; vertical-align: top; border: 1px solid #ddd; padding: 10px;">
             <img src="https://github.com/npp058/videogen/blob/main/results/output_frames/A car is moving on an empty road from left to right.jpg" alt="Image" style="width: 100%;" />
         </td>
-        <td style="width: 50%; vertical-align: top; border: 1px solid #ddd; padding: 10px;">
+        <td style="width: 70%; vertical-align: top; border: 1px solid #ddd; padding: 10px;">
             <div style="height: 50%; box-sizing: border-box; border-bottom: 1px solid #ddd;">
                 <p>A <span style="color: red;"><i>red car</i></span> moving on the road from <span style="color: red;"><i>left to right</i></span></p>              
             </div>
