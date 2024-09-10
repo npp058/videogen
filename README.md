@@ -50,6 +50,19 @@ Reduce `n_sample_frames` if your GPU memory is limited.
             </div>
         </td>
     </tr>
+    <tr>
+        <td style="vertical-align: top; border: 1px solid #ddd; padding: 10px;width:50%;">
+            <img src="results/output_frames/WhatsApp Image 2024-04-19 at 4.26.04 PM.jpeg" alt="Image" style="width: 100%;" />
+        </td>
+        <td style="width: 90%; vertical-align: top; border: 1px solid #ddd; padding: 10px;">
+            <div style="height: 50%; width:50%; box-sizing: border-box; border-bottom: 1px solid #ddd;">
+                <p>A <i>white cat</i> walking on grass from <i>top left to top right then down</i></p>
+            </div>
+            <div style="height: 50%; width:50%;box-sizing: border-box;">
+                <p>A <i>yellow duck</i> walking on grass from <i>top left to top right then down</i></p>
+            </div>
+        </td>
+    </tr>    
 </table>
 
 
