@@ -42,4 +42,3 @@ Reduce `n_sample_frames` if your GPU memory is limited.
 ## Shoutouts
 
 - This code builds on [diffusers](https://github.com/huggingface/diffusers). Thanks for open-sourcing!
-- Thanks [hysts](https://github.com/hysts) for the awesome [gradio demo](https://huggingface.co/spaces/Tune-A-Video-library/Tune-A-Video-Training-UI).
