@@ -1,8 +1,5 @@
 # Enhanced End-To-End Video Editing
 
-This repository is forked from [Tune-A-Video](https://arxiv.org/abs/2212.11565).
-
-
 ## Setup
 
 ### Requirements
