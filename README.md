@@ -43,8 +43,7 @@ Reduce `n_sample_frames` if your GPU memory is limited.
         </td>
         <td style="width: 50%; vertical-align: top; border: 1px solid #ddd; padding: 10px;">
             <div style="height: 50%; box-sizing: border-box; border-bottom: 1px solid #ddd;">
-                <p>A <span style="color: red;"><i>red car</i></span> moving on the road from <span style="color: red;"><i>left to right</i></span></p>
-                
+                <p>A <span style="color: red;"><i>red car</i></span> moving on the road from <span style="color: red;"><i>left to right</i></span></p>              
             </div>
             <div style="height: 50%; box-sizing: border-box;">
                 <p>A <span style="color: red;"><i>yellow jeep</i></span> moving on the road from <span style="color: red;"><i>left to right</i></span></p>
